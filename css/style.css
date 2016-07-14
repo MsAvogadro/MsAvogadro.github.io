@@ -1,0 +1,38 @@
+  .school {
+    font-family: Tillana;
+    color: blue;
+    Font-size: 32px;
+    text-align: center;
+    text-transform: bold;
+  }
+  
+  .cluster {
+    font-family: Aclonica;
+    color: #043040;
+    Font-size: 18px;
+    text-align: center;
+    line-height: 1
+  }
+  
+.course {font-family: Krona One;
+    color: #CC8355;
+    Font-size: 15px;
+    text-align: center;
+  text-weight: strong}
+  
+  p {
+    line-height: 1;
+    font-family: Josefin Slab;
+    font-size: 22px
+  }
+  
+  .body {
+    background-color: #FFE3C3;
+  }
+img{width: 400px; align:center }
+  
+.col-md-10{font-family:Josefin Slab; font-size:22px;
+}  
+p{text-align:left}
+
+  
